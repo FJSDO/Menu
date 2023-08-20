@@ -9,7 +9,7 @@ const menu = [
   },
   {
     id: 2,
-    title: "diner double",
+    title: "double burger",
     category: "lunch",
     price: 14.99,
     img: "./images/item-2.jpeg",
@@ -17,7 +17,7 @@ const menu = [
   },
   {
     id: 3,
-    title: "godzilla milkshake",
+    title: "summer milkshake",
     category: "shakes",
     price: 6.99,
     img: "./images/item-3.jpeg",
@@ -77,6 +77,14 @@ const menu = [
     category: "dinner",
     price: 22.99,
     img: "./images/item-10.jpeg",
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+  },
+  {
+    id: 11,
+    title: "fish & chips",
+    category: "dinner",
+    price: 21.99,
+    img: "./images/item-11.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
